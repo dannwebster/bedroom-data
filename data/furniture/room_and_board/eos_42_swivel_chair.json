@@ -12,7 +12,7 @@
     "type": "swivel_chair",
     "shape": "round",
     "manufacturer": "Room & Board",
-    "item_number": "10009111",
+    "item_number": "10010639",
     "dimensions": {
       "width": 42,
       "depth": 42,
@@ -83,12 +83,11 @@
       "price_source": "user_provided",
       "price_as_of": "2026-09-26"
     },
-    "product_url": "https://www.roomandboard.com/catalog/living/chairs/eos-swivel-chairs/10009111?CHAR_10009111_UPH_CUST_FABRIC_COLORWAYS=O05&CHAR_10009111_UPH_CUST_FABRICS=R14",
+    "product_url": "https://www.roomandboard.com/catalog/living/chairs/eos-swivel-chairs/10010639?CHAR_10010639_UPH_CUST_FABRIC_COLORWAYS=C03&CHAR_10010639_UPH_CUST_FABRICS=M64",
     "fabric_url": "https://www.roomandboard.com/fabrics/indoor/Mori?color=Mori_camel",
     "source_retrieved": "2026-09-26",
     "notes": [
-      "Configured as the 42-inch Eos swivel chair in Mori camel.",
-      "The supplied product URL dynamically exposed a conflicting 51-inch detail block during retrieval; 42-inch geometry was cross-checked against Room & Board's current 42-inch Eos variant specifications."
+      "Configured as the 42-inch Eos swivel chair in Mori camel."
     ]
   }
 }

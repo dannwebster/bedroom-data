@@ -53,6 +53,10 @@
       ]
     }
   },
+  "bedding": {
+    "sheets": "moss",
+    "pillows": "ivory"
+  },
   "construction": {
     "frame": "benchmade solid wood frame with reinforced joinery",
     "mattress_support": {

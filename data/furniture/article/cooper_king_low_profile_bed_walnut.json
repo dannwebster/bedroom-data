@@ -53,6 +53,10 @@
       "natural wood color and texture variation"
     ]
   },
+  "bedding": {
+    "sheets": "moss",
+    "pillows": "ivory"
+  },
   "construction": {
     "headboard": "slightly slanted wood headboard",
     "legs": "solid wood angled legs with round corners",
