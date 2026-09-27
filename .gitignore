@@ -1,0 +1,16 @@
+# Everything generated: furniture_placements.json (written by the app) and
+# photos/ (downloaded by npm run photos).
+output/
+
+# Temp files from the app's atomic writes
+*.tmp
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
